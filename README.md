@@ -6,7 +6,7 @@ This is a personal project that recreates the Addis Ababa University website usi
 
 ## Live Demo
 
-👉 [View the Live Site on Vercel](https://university-website.vercel.app)
+👉 [View the Live Site on Vercel](https://university-website-phi-lilac.vercel.app/)
 
 ---
 
