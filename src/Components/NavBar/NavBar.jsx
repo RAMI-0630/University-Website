@@ -2,6 +2,7 @@ import React, { useEffect, useState } from "react";
 import "./NavBar.css";
 import logo from "../../assets/AAU-Logo.png";
 import menu_icon from "../../assets/menu-icon.png";
+import close_icon from "../../assets/close-icon.png";
 import { Link } from "react-scroll";
 
 const NavBar = () => {
@@ -62,7 +63,13 @@ const NavBar = () => {
         <img
           src={menu_icon}
           alt=""
-          className="menu-icon"
+          className={`menu-icon ${mobileMenu ? "hide" : "show"}`}
+          onClick={toggleMenu}
+        />
+        <img
+          src={close_icon}
+          alt=""
+          className={`close-icon  ${mobileMenu ? "show" : "hide"}`}
           onClick={toggleMenu}
         />
       </nav>

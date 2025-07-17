@@ -1,4 +1,4 @@
-import React, { useState } from "react";
+import React, { useState, useEffect } from "react";
 import NavBar from "./Components/NavBar/NavBar";
 import Hero from "./Components/Hero/Hero";
 import Programs from "./Components/Programs/Programs";
@@ -11,6 +11,10 @@ import Footer from "./Components/Footer/Footer";
 import VideoPlayer from "./Components/VideoPlayer/VideoPlayer";
 
 const App = () => {
+  useEffect(() => {
+    window.history.scrollRestoration = "manual";
+    window.scrollTo(0, 0); // Scrolls to top-left corner
+  }, []);
   const [play, setPlay] = useState(false);
   return (
     <div>
