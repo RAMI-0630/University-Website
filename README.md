@@ -1,4 +1,4 @@
-# Addis Ababa University Website (Unofficial Clone)
+# Arba Minch University Website (Unofficial Clone)
 
 This is a personal project that recreates the Addis Ababa University website using **React.js**. I built it to sharpen my front-end skills and showcase my ability to design responsive and functional web interfaces.
 
@@ -41,6 +41,6 @@ npm install
 npm run dev
 
 ❗❗❗DISCLAIMER:
-This project is not affiliated with Addis Ababa University.
+This project is not affiliated with Arba Minch University.
 For questions or feedback, feel free to open an issue or contact me through GitHub.
 
