@@ -34,12 +34,11 @@ const ContactUs = () => {
     <div className="contact">
       <div className="contact-col">
         <h3>
-          Send us a message <img src={msg_icon} alt="" />
+          Send Inquiry <img src={msg_icon} alt="" />
         </h3>
         <p>
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Maiores
-          quaerat blanditiis incidunt similique quisquam, sapiente dolor sit.
-          Ex, magnam nam?
+          Send us a message with your questions or feedback. We’d love to hear
+          from you.
         </p>
         <ul>
           <li>
@@ -52,7 +51,7 @@ const ContactUs = () => {
           </li>
           <li>
             <img src={location_icon} alt="" />
-            Bole Road, Next to the bus stop <br /> AA 5555, ETIOPIA
+            Nech Sar Campus, Arba Minch, Ethiopia{" "}
           </li>
         </ul>
       </div>

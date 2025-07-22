@@ -9,6 +9,9 @@ import white_arrow from "../../assets/white-arrow.png";
 const Campus = () => {
   return (
     <div className="campus">
+      <p>
+        Take a look at life on campus — classrooms, labs, and green open spaces.
+      </p>
       <div className="gallery">
         <img src={gallery_1} alt="" />
         <img src={gallery_2} alt="" />

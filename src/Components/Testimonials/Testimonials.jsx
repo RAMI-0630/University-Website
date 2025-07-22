@@ -40,15 +40,14 @@ const Testimonials = () => {
                   <img src={user_1} alt="" />
                 </div>
                 <div>
-                  <h3>William Jackson</h3>
-                  <span>AAU, ETHIOPIA</span>
+                  <h3>Meron Asefa</h3>
+                  <span>AMU, Ethiopia</span>
                 </div>
               </div>
               <p>
-                Lorem ipsum dolor sit amet, consectetur adipisicing elit. Unde
-                harum ut aliquam odio tempore a? Optio laboriosam totam nemo
-                impedit debitis pariatur enim eaque tenetur, sapiente repellat
-                velit obcaecati harum.
+                "Studying at Arba Minch University gave me both knowledge and
+                confidence. The instructors were helpful and the learning
+                environment was great."
               </p>
             </div>
           </li>
@@ -59,15 +58,14 @@ const Testimonials = () => {
                   <img src={user_2} alt="" />
                 </div>
                 <div>
-                  <h3>William Jackson</h3>
-                  <span>AAU, ETHIOPIA</span>
+                  <h3>Sara Mekonnen</h3>
+                  <span>AMU, Ethiopia</span>
                 </div>
               </div>
               <p>
-                Lorem ipsum dolor sit amet, consectetur adipisicing elit. Unde
-                harum ut aliquam odio tempore a? Optio laboriosam totam nemo
-                impedit debitis pariatur enim eaque tenetur, sapiente repellat
-                velit obcaecati harum.
+                "Arba Minch University helped me grow both academically and
+                personally. The support from my professors made a big difference
+                in my journey."
               </p>
             </div>
           </li>
@@ -78,15 +76,14 @@ const Testimonials = () => {
                   <img src={user_3} alt="" />
                 </div>
                 <div>
-                  <h3>William Jackson</h3>
-                  <span>AAU, ETHIOPIA</span>
+                  <h3>Nahom Tesfaye</h3>
+                  <span>AMU, Ethiopia</span>
                 </div>
               </div>
               <p>
-                Lorem ipsum dolor sit amet, consectetur adipisicing elit. Unde
-                harum ut aliquam odio tempore a? Optio laboriosam totam nemo
-                impedit debitis pariatur enim eaque tenetur, sapiente repellat
-                velit obcaecati harum.
+                "The hands-on learning approach at AMU prepared me well for
+                real-world challenges. I especially enjoyed the projects and
+                research opportunities."
               </p>
             </div>
           </li>
@@ -98,14 +95,13 @@ const Testimonials = () => {
                 </div>
                 <div>
                   <h3>William Jackson</h3>
-                  <span>AAU, ETHIOPIA</span>
+                  <span>AMU, Ethiopia</span>
                 </div>
               </div>
               <p>
-                Lorem ipsum dolor sit amet, consectetur adipisicing elit. Unde
-                harum ut aliquam odio tempore a? Optio laboriosam totam nemo
-                impedit debitis pariatur enim eaque tenetur, sapiente repellat
-                velit obcaecati harum.
+                "The campus is peaceful and well-organized. I felt safe,
+                focused, and motivated every day. AMU gave me the tools to
+                succeed."
               </p>
             </div>
           </li>

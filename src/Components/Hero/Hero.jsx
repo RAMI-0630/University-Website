@@ -6,19 +6,13 @@ function Hero() {
   return (
     <div className="hero container">
       <div className="hero-text">
-        <h1>
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Rerum,
-          laudantium.
-        </h1>
+        <h1>Welcome to Arba Minch University</h1>
         <p>
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Nisi, esse
-          numquam? Aut reiciendis sunt, neque maiores minus tempora voluptas
-          labore, magnam dolores soluta necessitatibus maxime alias asperiores
-          qui accusantium ad. Commodi nostrum tenetur vitae est officia optio
-          debitis, nesciunt reprehenderit.
+          A place where learning meets purpose. We are committed to academic
+          excellence and community development.
         </p>
         <button className="btn">
-          Eplore more <img src={dark_arrow} alt="" />
+          Explore More <img src={dark_arrow} alt="" />
         </button>
       </div>
     </div>
