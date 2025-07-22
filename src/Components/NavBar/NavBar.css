@@ -14,12 +14,16 @@ nav {
 }
 .logo {
   display: inline-block;
-  min-width: 60px;
+  /* min-width: 60px;
   min-height: 60px;
   width: 150px;
-  height: 150px;
+  height: 150px; */
   /* max-width: 120px;
   max-height: 120px; */
+
+  width: 140px;
+  height: auto;
+  min-width: 60px;
 }
 
 nav ul li {
@@ -45,8 +49,8 @@ a {
 
 @media (max-width: 1000px) {
   .logo {
-    width: 120px;
-    height: 120px;
+    width: 100px;
+    /* height: 120px; */
   }
   nav ul li {
     margin: 10px 15px;
